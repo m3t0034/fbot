@@ -35,8 +35,8 @@
   "deprecated": false,
   "description": "Create and parse Content-Disposition header",
   "devDependencies": {
-    "eslint": "3.11.1",
-    "eslint-config-standard": "6.2.1",
+    "eslint": ">=4.18.2"
+   "eslint-config-standard": "6.2.1",
     "eslint-plugin-promise": "3.3.0",
     "eslint-plugin-standard": "2.0.1",
     "istanbul": "0.4.5",
